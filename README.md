@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DaisyDar
 - 👀 I’m interested in seeing the World in pictures
-- 🌱 I’m currently learning VBS
+- 🌱 I’m currently learning VBScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: Her
